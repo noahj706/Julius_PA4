@@ -1,12 +1,12 @@
-##Julius_PA4 - Basic Fitness Application in C++
+## Julius_PA4 - Basic Fitness Application in C++
 
-#Description
+# Description
 
 This program is my first ever C++ project AND first ever project written with VS Code
 
 The program will allow users to manually edit "diet" and "excersize" plans. Such plans will each have their own class.
 
-#Things Learned
+# Things Learned
 
 In the process of making this project, I learned to:
 
@@ -24,7 +24,7 @@ In the process of making this project, I learned to:
 - Discuss classes versus objects
 - Apply basic file operations on file streams
 
-#Other
+# Other
 
 - Programmer(s): Noah Julius
 - Date Create: March 2026
